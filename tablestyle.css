@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+    
+  }
+  h1 {
+    text-align: center;
+    font-family: 'Arial';
+    font-weight: bold;
+    color: rgb(19, 63, 97);
+    
+  }
+  h2 {
+    text-align: center;
+    font-family: 'Arial';
+    font-weight: bold;
+    color: rgb(19, 63, 97);
+    
+  }
+  table {
+    position: relative;
+    width: 100%
+  }
+  table, th, td {
+    border: 2px solid rgb(19, 63, 97);
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+
+  }
+  th {
+    color: white;
+    background-color: rgb(19, 63, 97);
+  }
+  span {
+    background-color: beige;
+    font-family: monospace;
+  }
+   
